@@ -1,13 +1,14 @@
-<img width="702" height="747" alt="image" src="https://github.com/user-attachments/assets/48da8c4f-708e-442d-969b-e5e28de97ca9" /> # Tic-Tac-Toe
 
  A simple Tic-Tac-Toe game built with React (Vite).
+
+<img width="702" height="747" alt="image" src="https://github.com/user-attachments/assets/709ab5d5-ab45-4c63-81f8-069ac1d7de0a" />
+<img width="702" height="747" alt="image" src="https://github.com/user-attachments/assets/64fe16a3-6eaf-485d-a7b1-565c7e1bbc2a" />
+
 
  Minimal instructions
 
  - Install dependencies: `npm install`
  - Start dev server: `npm run dev`
-   <img width="702" height="747" alt="image" src="https://github.com/user-attachments/assets/8e776929-b118-48d7-93ea-9dcfc821d0c1" />
-
 
  Credit
 
